@@ -4,11 +4,16 @@
 [![@mauricio-quiñones-691769285](https://img.icons8.com/fluency/48/000000/linkedin.png "@mauricio-quiñones-691769285")](https://www.linkedin.com/in/mauricio-quiñones-691769285/)
 [![@pmq244@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@pmq244@gmail.com")](pmq244@gmail.com)
 
+[![@mauricio.quinones82](https://img.icons8.com/fluency/48/000000/instagram-new.png "@mauricio.quinones82")](https://www.instagram.com/mauricio.quinones82/)
+[![@Mauricio Quiñones](https://img.icons8.com/fluency/48/000000/facebook.png "@Mauricio Quiñones")](https://www.facebook.com/pedro.quinonesgil?mibextid=ZbWKwL)
+
+
+
 <br>
-<h3 align="left">Languajes:</h3>
+<h3 align="left">Languages:</h3>
 <p>Spanish --> Mother Tongue</p>
 <p>English --> B1</p>
-<p>Francais --> B1</p>
+<p>Français --> B1</p>
 
 <br>
 <h3 align="left">Languages and Tools:</h3>
