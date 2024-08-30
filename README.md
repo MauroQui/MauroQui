@@ -1,62 +1,47 @@
 <h1 align="center">Hi 👋, I'm Mauricio Quiñones</h1>
-
-
-[![@mauricio-quiñones-691769285](https://img.icons8.com/fluency/48/000000/linkedin.png "@mauricio-quiñones-691769285")](https://www.linkedin.com/in/mauricio-quiñones-691769285/)
-[![@pmq244@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@pmq244@gmail.com")](pmq244@gmail.com)
-
-[![@mauricio.quinones82](https://img.icons8.com/fluency/48/000000/instagram-new.png "@mauricio.quinones82")](https://www.instagram.com/mauricio.quinones82/)
-[![@Mauricio Quiñones](https://img.icons8.com/fluency/48/000000/facebook.png "@Mauricio Quiñones")](https://www.facebook.com/pedro.quinonesgil?mibextid=ZbWKwL)
-
-
-
 <br>
-<h3 align="left">Languages:</h3>
+
+## About Me 😎👍 :
+<div align="center">
+  <p>
+    ✔ Freelance IT Engineer, I work in the Technical Support Area and i´m currently training as a Full-Stack Web Developer.
+  </p>
+  <p>
+    ✔ Ingénieur informatique indépendant, je travaille dans le domaine du support technique et je suis actuellement en formation de développeur Web Full-Stack.
+  </p>
+</div>
+<br>
+
+## Languages 🌍:
 <p>Spanish --> Mother Tongue</p>
 <p>English --> B1</p>
 <p>Français --> B1</p>
+<br>
+
+## Fun Facts 🎈:
+🔹 I like to dance Salsa, Bachata, Kizomba 🕺💃
+<br>
+🔸 I love go to the Gym 🏋️‍♂️
+<br>
+🔹 I like travel ✈🚢
+<br>
+🔸 I love spending time with my family and friends ✨🍔🍟🍻😉 
+<br>
+<br>
+
+## Connect with me ✨:
+[![@mauricio-quiñones-691769285](https://img.icons8.com/fluency/48/000000/linkedin.png "@mauricio-quiñones-691769285")](https://www.linkedin.com/in/mauricio-quiñones-691769285/)
+[![@pmq244@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@pmq244@gmail.com")](pmq244@gmail.com)
+[![@mauricio.quinones82](https://img.icons8.com/fluency/48/000000/instagram-new.png "@mauricio.quinones82")](https://www.instagram.com/mauricio.quinones82/)
+[![@Mauricio Quiñones](https://img.icons8.com/fluency/48/000000/facebook.png "@Mauricio Quiñones")](https://www.facebook.com/pedro.quinonesgil?mibextid=ZbWKwL)
 
 <br>
-<h3 align="left">Languages and Tools:</h3>
 
-<table align="center">
-  <tr>
-      <td align="center" width="96">
-      <a href="#html5">
-        <img src="https://seeklogo.com/images/H/html5-without-wordmark-color-logo-14D252D878-seeklogo.com.png" width="48" height="48" alt="Html5" />
-      </a>
-      <br>HTML5
-    </td>
-    <td align="center" width="96">
-      <a href="#css3">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/48px-CSS3_logo.svg.png" width="48" height="48" alt="Css3" />
-      </a>
-      <br>CSS3
-    </td>
-    <td align="center" width="96">
-      <a href="#js">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48" alt="javascript" />
-      </a>
-      <br>Javascript
-    </td>
-    
-  </tr>
-   <tr>
-   <td align="center" width="96">
-      <a href="#git" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
-      </a>
-      <br>Git
-    </td>
-      <td align="center"  width="96">
-      <a href="#vscode">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="48" height="48" alt="Jamstack" />
-      </a>
-      <br>VS Code
-    </td>
-      <td align="center" width="96">
-      <a href="#postman" >
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48" height="48" alt="Git" />
-      </a>
-      <br>Postman
-      </tr>
-</table>
+<h2>🌟Tech Stack🌟</h4>
+<h3 align="left">Programming Languages and Tools:</h3>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,java,angular,firebase,docker,postgres,git,github,vscode,postman"/>
+  </a>
+</p>
+
