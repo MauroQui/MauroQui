@@ -1,9 +1,16 @@
 <h1 align="center">Hi 👋, I'm Mauricio Quiñones</h1>
 
 
-[![@mauricio-quiñones-691769285](https://img.icons8.com/fluency/48/000000/linkedin.png "@mauricio-quiñones-691769285")](https://www.linkedin.com/in/mauricio-quiñones-691769285/) [![@anushka_wije](https://img.icons8.com/fluency/48/000000/twitter-squared.png "@anushka_wije")](https://twitter.com/anushka_wije) [![@0711971313](https://img.icons8.com/fluency/48/000000/phone-disconnected.png "@0711971313")](tel:0711971313) [![@anushkaduwolka123@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@anushkaduwolka123@gmail.com")](anushkaduwolka123@gmail.com)
-<h3 align="left">Languajes:</h3>
+[![@mauricio-quiñones-691769285](https://img.icons8.com/fluency/48/000000/linkedin.png "@mauricio-quiñones-691769285")](https://www.linkedin.com/in/mauricio-quiñones-691769285/)
+[![@pmq244@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@pmq244@gmail.com")](pmq244@gmail.com)
 
+<br>
+<h3 align="left">Languajes:</h3>
+<p>Spanish --> Mother Tongue</p>
+<p>English --> B1</p>
+<p>Francais --> B1</p>
+
+<br>
 <h3 align="left">Languages and Tools:</h3>
 
 <table align="center">
