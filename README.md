@@ -50,10 +50,10 @@
 <br>
 
 <h2>🌟Tech Stack🌟</h4>
-<h3 align="left">Programming Languages and Tools:</h3>
+<h3 align="center">Programming Languages and Tools:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,java,angular,firebase,python,django,docker,postgres,git,github,vscode,postman"/>
+    <img src="https://skillicons.dev/icons?i=html,css,js,java,angular,firebase,py,django,docker,postgres,git,github,vscode,postman"/>
   </a>
 </p>
 
