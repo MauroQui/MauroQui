@@ -19,15 +19,15 @@
 <br>
 
 ## Strengths 👊😎:
-<p> Organized and responsible for my assigned tasks.</p>
-<p>Ability to work in a team.</p>
-<p>Disciplined, responsible and very optimistic.</p>
-<p>I like to learn new things.</p>
+<p>◽ Organized and responsible for my assigned tasks.</p>
+<p>◽ Ability to work in a team.</p>
+<p>◽ Disciplined, responsible and very optimistic.</p>
+<p>◽ I like to learn new things.</p>
 <br>
 
 ## Weaknesses 🙈:
-<p>A little shy </p>
-<p>I like things to be done well, perfectionist</p>
+<p>◽ A little shy. </p>
+<p>◽ I like things to be done well, perfectionist.</p>
 <br>
 
 
@@ -49,7 +49,7 @@
 [![@pmq244@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@pmq244@gmail.com")](pmq244@gmail.com)
 <br>
 
-<h2>🌟Tech Stack🌟</h4>
+## 🌟Tech Stack🌟:
 <h3 align="center">Programming Languages and Tools:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
