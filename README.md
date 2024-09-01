@@ -41,6 +41,7 @@
 🔸 I love spending time with my family and friends ✨🍔🍟🍻😉 
 <br>
 <br>
+<br>
 
 ## Connect with me ✨:
 [![@mauricio-quiñones-691769285](https://img.icons8.com/fluency/48/000000/linkedin.png "@mauricio-quiñones-691769285")](https://www.linkedin.com/in/mauricio-quiñones-691769285/)
@@ -48,6 +49,8 @@
 [![@Mauricio Quiñones](https://img.icons8.com/fluency/48/000000/facebook.png "@Mauricio Quiñones")](https://www.facebook.com/pedro.quinonesgil?mibextid=ZbWKwL)
 [![@pmq244@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@pmq244@gmail.com")](pmq244@gmail.com)
 <br>
+<br>
+
 
 ## 🌟Tech Stack🌟:
 <h3 align="center">Programming Languages and Tools:</h3>
